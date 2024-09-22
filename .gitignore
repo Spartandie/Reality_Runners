@@ -1,0 +1,48 @@
+Last login: Sun Sep 22 16:03:55 on ttys000
+blue@192 Colision_Dimensional % cd ..
+blue@192 SODVI % ls
+Colision_Dimensional	Sin título
+blue@192 SODVI % cd Sin\ título 
+blue@192 Sin título % cd LUMINA 
+blue@192 LUMINA % ls
+Assets		Library		Packages	README.md	UpgradeLog.htm
+Builds		Logs		ProjectSettings	Temp		UserSettings
+blue@192 LUMINA % vi .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+/[Mm]emoryCaptures/
+
+# Recordings can get excessive in size
+/[Rr]ecordings/
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# /[Aa]ssets/AssetStoreTools*
+
+".gitignore" 72L, 1284B
+
